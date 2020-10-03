@@ -1,5 +1,5 @@
 # Sensitive files
-config.h
+config.hh
 
 # Prerequisites
 *.d
